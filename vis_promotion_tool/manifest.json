@@ -1,0 +1,18 @@
+{
+    "manifest_version":2,
+
+    "name":"VIS_Promotion_Tool",
+    "description":"VIS Promotion Tool By MJ",
+    "version":"1.0",
+
+    "browser_action":{
+        "default_title":"VIS_Promotion_Tool",
+        "default_popup":"popup.html"
+     },
+
+    "permissions": [
+        "*://vis.vip.com/*"
+    ],
+
+    "options_page": "option.html"
+}

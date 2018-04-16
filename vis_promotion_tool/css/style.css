@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 30;
+}
+
+h1,h3,button {
+    margin: 5 auto;
+}
+
+input,textarea,button {
+    padding: 5;
+    width: 300;
+}
+
+textarea {
+    min-height: 100;
+}
+
+b {
+    color: red;
+}
+
+div {
+    line-height:40px;
+    font-size: 12px;
+    text-align: center;
+}
